@@ -1,0 +1,50 @@
+
+
+body{
+    background-color: #EFFFFD;
+}
+h1{
+    color: #42C2FF;
+    margin: 5px;
+}
+h3{
+    color: #42C2FF;
+}
+hr{
+       border-style: dotted none none;
+       height: 0px;
+       width: 7%;
+       border-color: grey;
+       border-width: 10px;
+       
+}
+img{
+       width: 200px;
+       
+       position: relative;
+     /*  left: 50%;
+       margin-left: -100px; 
+       */
+}
+table.skill{
+    border-spacing: 0;
+}
+td{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+td.shell{
+    padding-left: 0;
+    padding-right: 0;
+}
+td.bio{
+    padding: 0;
+}
+thead{
+    background-color: #85F4FF;
+}
+
+a.contact{
+    text-align: center;
+}
